@@ -18,20 +18,18 @@
 print_banner() {
   clear
 
-
 printf "${GREEN}";
-printf "######   ######   ######   ##  ##   #####    ######   ######   ##  ##   ######   ######\n";
-printf "##  ##     ##     ##       ### ##   ##  ##   ##       ##  ##   ##  ##   ##  ##     ##\n";
-printf "##  ##     ##     ####     ######   ##  ##   ####     ##       ######   ##  ##     ##\n";
-printf "######     ##     ##       ## ###   ##  ##   ##       ##       ##  ##   ######     ##\n";
-printf "##  ##     ##     ##       ##  ##   ##  ##   ##       ##  ##   ##  ##   ##  ##     ##\n";
-printf "##  ##     ##     ######   ##  ##   #####    ######   ######   ##  ##   ##  ##     ##\n";
-
+printf "###### ##### ##### ###### ## ## ## ## ##### ######\n";
+printf "## ## ## ## ## ## ## ## ## ### ## ## ## ##\n";
+printf "###### ###### ##### #### ###### ###### ###### ####\n";
+printf "## ## ## ## ## ## ## ## ## ### ## ## ##\n";
+printf "## ## ## ## ## ## ## ## ## ## ## ## ##\n";
+printf "## ## ## ##### ###### ## ## ## ## ## ## ######\n";
 printf "\n"
 
-printf "Solicite suporte: https://atendechat.com/suporte\n"
-printf "Contrate nossos servidores: https://atendechat.com/servidores\n"
-printf "2025 @ Todos os direitos reservados a https://atendechat.com\n"
+printf "Solicite suporte: https://www.jgsistemas.com.br/zapchat\n"
+printf "Contrate nossos servidores: https://www.jgsistemas.com.br/servidores\n"
+printf "2026 @ Todos os direitos reservados a https://www.jgsistemas.com.br\n"
 
 
 

@@ -18,22 +18,28 @@
 print_banner() {
   clear
 
+```bash
 printf "${GREEN}";
-printf "###### ##### ##### ###### ## ## ## ## ##### ######\n";
-printf "## ## ## ## ## ## ## ## ## ### ## ## ## ##\n";
-printf "###### ###### ##### #### ###### ###### ###### ####\n";
-printf "## ## ## ## ## ## ## ## ## ### ## ## ##\n";
-printf "## ## ## ## ## ## ## ## ## ## ## ## ##\n";
-printf "## ## ## ##### ###### ## ## ## ## ## ## ######\n";
-printf "\n"
+printf "######################################################################\n";
+printf "#                                                                    #\n";
+printf "#   ███████╗ █████╗ ██████╗  ██████╗██╗  ██╗ █████╗ ████████╗       #\n";
+printf "#   ╚══███╔╝██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗╚══██╔══╝       #\n";
+printf "#     ███╔╝ ███████║██████╔╝██║     ███████║███████║   ██║          #\n";
+printf "#    ███╔╝  ██╔══██║██╔═══╝ ██║     ██╔══██║██╔══██║   ██║          #\n";
+printf "#   ███████╗██║  ██║██║     ╚██████╗██║  ██║██║  ██║   ██║          #\n";
+printf "#   ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝          #\n";
+printf "#                                                                    #\n";
+printf "#                    JG SISTEMAS • ZAPCHAT                          #\n";
+printf "#                                                                    #\n";
+printf "######################################################################\n";
 
-printf "Solicite suporte: https://www.jgsistemas.com.br/zapchat\n"
-printf "Contrate nossos servidores: https://www.jgsistemas.com.br/servidores\n"
-printf "2026 @ Todos os direitos reservados a https://www.jgsistemas.com.br\n"
+printf "\n";
 
+printf "Solicite suporte: https://www.jgsistemas.com.br/zapchat\n";
+printf "Contrate nossos servidores: https://www.jgsistemas.com.br/servidores\n";
+printf "2026 @ Todos os direitos reservados a https://www.jgsistemas.com.br\n";
 
-
-  printf "${NC}";
+printf "${NC}";
 
   printf "\n"
 }
